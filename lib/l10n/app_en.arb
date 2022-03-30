@@ -1,0 +1,12 @@
+{
+    "@@locale": "en",
+    "catFactPageTitle": "Random Cat Fact",
+    "errorCatFact": "Error while loading a random fact about cats!",
+    "errorRoutPageTitle": "Error page",
+    "errorRoutPageDescribe": "Error while opening a page!",
+    "emptyHistory": "No facts searched yet",
+    "errorHistory": "Error on loading history",
+    "catFactHistoryPageTitle": "Cat Fact History",
+    "anotherFactButton": "Another fact!",
+    "noDateLabel": "No Date"
+}
